@@ -16,7 +16,7 @@
 ### Connect with me:
 
 <a href="https://github.com/Priyanka11072002">
-  <img align="left" alt="Pawan's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  <img align="left" alt="Priyanka's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <a href="https://www.linkedin.com/in/priyanka-kumari-b9308524b/">
@@ -24,7 +24,7 @@
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100066594525089">
-  <img align="left" alt="Pawan's Facebook" width="22px" src="https://www.facebook.com/profile.php?id=100066594525089" />
+  <img align="left" alt="priyanka's Facebook" width="22px" src="https://www.facebook.com/profile.php?id=100066594525089" />
 </a>
 
 <br />
